@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fah-12.github.io/p2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fah-12.github.io/p2/static/js/main.bbb547ae.chunk.js",
+    "main.js.map": "/fah-12.github.io/p2/static/js/main.bbb547ae.chunk.js.map",
+    "runtime-main.js": "/fah-12.github.io/p2/static/js/runtime-main.f9341dc4.js",
+    "runtime-main.js.map": "/fah-12.github.io/p2/static/js/runtime-main.f9341dc4.js.map",
+    "static/js/2.9abb81f2.chunk.js": "/fah-12.github.io/p2/static/js/2.9abb81f2.chunk.js",
+    "static/js/2.9abb81f2.chunk.js.map": "/fah-12.github.io/p2/static/js/2.9abb81f2.chunk.js.map",
+    "static/js/3.ffb7a687.chunk.js": "/fah-12.github.io/p2/static/js/3.ffb7a687.chunk.js",
+    "static/js/3.ffb7a687.chunk.js.map": "/fah-12.github.io/p2/static/js/3.ffb7a687.chunk.js.map",
+    "index.html": "/fah-12.github.io/p2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fah-12.github.io/p2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9abb81f2.chunk.js.LICENSE.txt": "/fah-12.github.io/p2/static/js/2.9abb81f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fah-12.github.io/p2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9341dc4.js",
+    "static/js/2.9abb81f2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bbb547ae.chunk.js"
+  ]
+}
